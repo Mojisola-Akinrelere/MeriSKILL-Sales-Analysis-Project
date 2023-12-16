@@ -21,9 +21,9 @@ In the initial data preparation phase, I performed the following tasks:
 ### Exploratory Data Analysis
 EDA involved exploring the sales data to answer key questions, such as:
 
-Which products are top selling?
-What city makes the highest and lowest sales?
-What are the peak sales periods?
+- Which products are top selling?
+- What city makes the highest and lowest sales?
+- What are the peak sales periods?
 
 ### Data Analysis
 After cleaning my Data in power query, I was able to generate this COLUMN DESCRIPTION:
